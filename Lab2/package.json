@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "npm run cy:run --spec 'cypress/integration/test.js'",
+    "test": "npm run cy:run --spec 'cypress/integration/examples/test.js'",
     "eject": "react-scripts eject",
     "cypress": "cypress open",
     "cy:run": "cypress run"
